@@ -1,0 +1,12 @@
+.SoliBio div{
+  float: center;
+  color: #fff;
+  font-family: 'Exo', sans-serif;
+  font-size: 45px;
+  font-weight: 200;
+  text-align:center;
+}
+
+.SoliBio div span{
+  color: #0E7D63 !important;
+}
